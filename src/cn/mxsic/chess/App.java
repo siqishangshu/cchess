@@ -78,7 +78,6 @@ public class App extends JFrame implements ActionListener {
 		
 	}
 	private void initialFrame() {
-		// TODO Auto-generated method stub
 		this.setTitle("中国象棋--单机脑残版");
 		Image image=new ImageIcon("ico.gif").getImage();
 		this.setIconImage(image);
