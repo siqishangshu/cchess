@@ -18,7 +18,10 @@ import javax.swing.JSplitPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-
+/**
+ * mxsic
+ * 
+ */
 public class App extends JFrame implements ActionListener {
 
 	/**
